@@ -1,3 +1,4 @@
+a=int(input("enterr"))
 def multi(a,b):
     return (a*b)
     
